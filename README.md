@@ -1,8 +1,10 @@
-# LuoguAnswers
+# Algorithm-problem-solving
 
-### 字符串
+## 字符串
 
 ### 字符串匹配
+[B2123 字符串 p 型编码](/B2123/)
+[P8846 『JROI-7』PMK 配匹串符字](/P8846/)
 
 ### 字符串哈希
 
